@@ -1,0 +1,3 @@
+Modelo,R2 train,R2 test,ECM test,RMSE test
+Regresión lineal,0.3022,0.3198,37.4981,6.1236
+Red neuronal MLP,0.3261,0.3146,37.7827,6.1468
